@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="refresh">refresh</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="disconnect">disconnect</string>
+</resources>
